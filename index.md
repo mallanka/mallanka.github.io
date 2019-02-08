@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+### CV
 
-You can use the [editor on GitHub](https://github.com/mallanka/mallanka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Name** 				        Aliaksandr Naumkin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Marital status**			Single
 
-### Markdown
+**Date of birth**			  23th October 1990
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Nationality**				  Belorussian
 
-```markdown
-Syntax highlighted code block
+I want to obtain employment in the field of programming development that will allow me to study new things constantly and depend only on my skills.
 
-# Header 1
-## Header 2
-### Header 3
+## **Education**
 
-- Bulleted
-- List
+Sukhoi State Technical University of Gomel, Automation and Information Systems Faculty, Automation Electric Drive, September 2009 – June 2014
 
-1. Numbered
-2. List
+## **Work experience**
 
-**Bold** and _Italic_ and `Code` text
+Since I was 16 I worked in different companies as a laborer annually in summer.
 
-[Link](url) and ![Image](src)
-```
+«Svetlogorsk pulp and cardboard plant», The area of power boiler’s automation, Electrical engineer, 2014 – 2016
+- Maintaining continuous working of the four power boilers.
+- Programming controllers Siemens s300, s 1200.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+«Gasprom transgas Belarus» Minsk branch, Electrotechnical laboratory, Measurement and testing electrician, 2016 – 2018
+- Making measurements at the objects of the enterprise
+- Making tests an equipment of the working personnel
 
-### Jekyll Themes
+«Gasprom transgas Belarus» Minsk branch, Corporate security Department, Protection engineer, 2018 – present
+- Maintaining continuous working of the technical means of protection
+- Interacting with the contractor service organization
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mallanka/mallanka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## **Personal qualities**
 
-### Support or Contact
+- Assiduity
+- Persistence
+- Directness
+- Punctuality
+- Sociability
+- High adaptability
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## **Hobbies**
+
+Sport, playing guitar, riding motorcycle, learning English, nature hiking, watching popular science lectures.
+
+## **URL**
