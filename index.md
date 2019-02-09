@@ -47,3 +47,5 @@ Sport, playing guitar, riding motorcycle, learning English, nature hiking, watch
 <a href="https://www.ude.my/UC-TBI5PEZN">Udemy course completion certificate</a>
 
 <a href="https://github.com/mallanka/udemy_tic_toc.git">Udemy tic toc game</a>
+
+<a href="https://github.com/mallanka/FancyCalc.git">FancyCalc</a>
