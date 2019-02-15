@@ -48,6 +48,8 @@ Sport, playing guitar, riding motorcycle, learning English, nature hiking, watch
 
 <a href="https://github.com/mallanka/udemy_tic_toc.git">Udemy tic toc game</a>
 
+<a href="https://www.codewars.com/users/mallanka">CodeWars account</a>
+
 <a href="https://github.com/mallanka/FancyCalc.git">FancyCalc 100%</a>
 
 <a href="https://github.com/mallanka/PadawansTask1.git">PadawansTask1 100%</a>
