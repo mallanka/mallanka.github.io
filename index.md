@@ -52,6 +52,8 @@ Sport, playing guitar, riding motorcycle, learning English, nature hiking, watch
 
 <a href="https://github.com/mallanka/FancyCalc.git">FancyCalc 100%</a>
 
+<a href="https://github.com/mallanka/Fibonacci_Numbers.git">Fibonacci numbers using Collection</a>
+
 <a href="https://github.com/mallanka/PadawansTask1.git">PadawansTask1 100%</a>
 
 <a href="https://github.com/mallanka/PadawansTask2.git">PadawansTask2 100%</a>
