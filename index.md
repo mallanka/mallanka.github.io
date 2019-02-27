@@ -80,4 +80,4 @@ Sport, playing guitar, riding motorcycle, learning English, nature hiking, watch
 
 <a href="https://github.com/mallanka/PadawansTask13.git">PadawansTask13 100%</a>
 
-<a href="https://github.com/mallanka/PadawansTask15.git">PadawansTask15 86% yet</a>
+<a href="https://github.com/mallanka/PadawansTask15.git">PadawansTask15 89% yet</a>
