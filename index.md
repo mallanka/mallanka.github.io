@@ -8,7 +8,7 @@
 
 **Nationality**				  Belorussian
 
-I want to obtain employment in the field of programming development that will allow me to study new things constantly and depend only on my skills.
+I want to obtain employment in the field of programming development that will allow me to study new things constantly and depend only on my skills. Now I'm studying C#.
 
 ## **Education**
 
@@ -46,38 +46,4 @@ Sport, playing guitar, riding motorcycle, learning English, nature hiking, watch
 ## **URL**
 <a href="https://www.ude.my/UC-TBI5PEZN">Udemy course completion certificate</a>
 
-<a href="https://github.com/mallanka/udemy_tic_toc.git">Udemy tic toc game</a>
-
 <a href="https://www.codewars.com/users/mallanka">CodeWars account</a>
-
-<a href="https://github.com/mallanka/FancyCalc.git">FancyCalc 100%</a>
-
-<a href="https://github.com/mallanka/Fibonacci_Numbers.git">Fibonacci numbers using Collection</a>
-
-<a href="https://github.com/mallanka/PadawansTask1.git">PadawansTask1 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask2.git">PadawansTask2 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask3.git">PadawansTask3 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask4.git">PadawansTask4 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask5.git">PadawansTask5 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask6.git">PadawansTask6 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask7.git">PadawansTask7 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask8.git">PadawansTask8 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask9.git">PadawansTask9 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask10.git">PadawansTask10 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask11.git">PadawansTask11 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask12.git">PadawansTask12 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask13.git">PadawansTask13 100%</a>
-
-<a href="https://github.com/mallanka/PadawansTask15.git">PadawansTask15 89% yet</a>
